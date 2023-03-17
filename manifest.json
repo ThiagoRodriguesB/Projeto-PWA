@@ -7,7 +7,7 @@
     "orientation": "any",
     "scope": "/",
     "short_name": "Praias",
-    "start_url": "/praias.lindas.com.br",
+    "start_url": "index.html",
     "theme_color": "#ffffff",
     "categories": [
       "travel"
