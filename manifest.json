@@ -173,7 +173,8 @@
       {
         "src": "assets/images/172.png",
         "sizes": "172x172",
-        "type": "image/png"
+        "type": "image/png",
+        "purpose": "any maskable"
       },
       {
         "src": "assets/images/180.png",
@@ -183,8 +184,7 @@
       {
         "src": "assets/images/196.png",
         "sizes": "196x196",
-        "type": "image/png",
-         "purpose": "any maskable"
+        "type": "image/png"
       },
       {
         "src": "assets/images/216.png",
