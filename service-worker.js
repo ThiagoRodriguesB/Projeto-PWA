@@ -9,7 +9,7 @@ self.addEventListener('install', event => {
       .then(cache => cache.addAll([
 
         './index.html',
-        './manifest.json',
+        //'./manifest.json',
 
         //'./assets/css/bootstrap.min.css',
         //'./assets/js/bootstrap.min.js',
