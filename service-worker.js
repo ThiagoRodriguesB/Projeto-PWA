@@ -10,12 +10,20 @@ self.addEventListener('install', event => {
 
         './index.html',
 
-        './assets/css/bootstrap.min.css',
-
-        './assets/js/bootstrap.min.js',
-
-        './assets/js/jquery.min.js',
-
+        //'./assets/css/bootstrap.min.css',
+        //'./assets/js/bootstrap.min.js',
+        //'./assets/js/jquery.min.js',
+        './assets/css/fontawesome-all.min.css',
+        './assets/css/main.css',
+        '/assets/css/images/bg01.png',
+        '/assets/css/images/bg02.png',
+        '/assets/sass/libs/_breapoints.scss',
+        '/assets/sass/libs/_functions.scss',
+        '/assets/sass/libs/_htmml-grid.scss',
+        '/assets/sass/libs/_mixins.scss',
+        '/assets/sass/libs/_vars.scss',
+        '/assets/sass/libs/_vendor.scss',
+        '/assets/sass/main.scss',
         './assets/js/popper.min.js',
         './assets/images/16.png',
         './assets/images/',
