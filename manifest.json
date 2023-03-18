@@ -173,8 +173,7 @@
       {
         "src": "assets/images/172.png",
         "sizes": "172x172",
-        "type": "image/png",
-        "purpose": "any maskable"
+        "type": "image/png"
       },
       {
         "src": "assets/images/180.png",
